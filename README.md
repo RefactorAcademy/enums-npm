@@ -4,7 +4,7 @@ NPM package for getting the all enums
 
 # Installation
 
-`npm i dto-npm --save`
+`npm i npm-enum --save`
 
 Then...
 
