@@ -1,5 +1,5 @@
 {
-  "name": "Dto-npm",
+  "name": "dto-npm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/RefactorAcademy/Assessment-Platform-Dtos.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Prasanna2904",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RefactorAcademy/Assessment-Platform-Dtos/issues"
