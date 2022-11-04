@@ -1,0 +1,15 @@
+export declare const SEND_USER_REGISTRATION_EMAIL = "sendUserRegistrationEmail";
+export declare const SEND_MEMBER_REGISTRATION_EMAIL = "sendMemberRegistrationEmail";
+export declare const SEND_EXAM_RESULT_NOTIFICATION = "sendExamResultNotification";
+export declare const SEND_FORGOT_PASSWORD_NOTIFICATION = "sendForgotPasswordNotification";
+export declare const FULL_STACK_EXAM_REPLICA_EMAIL = "fullStackExamReplicaEmail";
+export declare const FULL_STACK_EXAM_DSA_EMAIL = "fullStackExamDSAEmail";
+export declare const PROMOTIONAL_EMAIL = "promotionalEmail";
+export declare const SEND_NEW_REFERRER_SIGNUP_EMAIL = "sendNewReferrerSignupEmail";
+export declare const SEND_SIGNUP_BY_REFERRAL_EMAIL = "sendSignupByReferralEmail";
+export declare const NOTIFY_REFERER_SIGNUP_EMAIL = "notifyRefererSignupEmail";
+export declare const NOTIFY_REFERER_ROUND1_COMPLETE_EMAIL = "notifyRefererRound1CompleteEmail";
+export declare const NOTIFY_REFEREE_ROUND1_COMPLETE_EMAIL = "notifyRefereeRound1CompleteEmail";
+export declare const NOTIFY_REFERER_ISA_SIGNUP_EMAIL = "notifyRefererISASignupEmail";
+export declare const NOTIFY_REFEREE_ISA_SIGNUP_EMAIL = "notifyRefereeISASignupEmail";
+export declare const SEND_OTP = "sendOtp";
